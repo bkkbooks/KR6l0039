@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6l0039_000-X.yaml, hash: 'sha256:48f66a53585e8787543f81226e23cef39a9bdc3c9947f50a35d897a502b31adf'}
+  - {seq: 0, filename: KR6l0039_000-X.yaml, hash: 'sha256:6f0f3e4f74d89662eb0533b5cad4d1fa182852ad2ca958f5bff11152577b036d'}
   - {seq: 1, filename: KR6l0039_001-X.yaml, hash: 'sha256:3c0ac2876de2e582d7f87f2d3c8d74dafdfa1859e49a63047a4e2c375d4d70e8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6l0039_000-X.markers.yaml, hash: 'sha256:66dfdc09269106496b0cb4ba5b1c143cd9b96997953180cfeab65ccc9f1e8b8b'}
+  - {seq: 0, role: markers, filename: assets/KR6l0039_000-X.markers.yaml, hash: 'sha256:5601b49b75809a52c27d04efd04c62c7956fec6a48ddfa2e9b76a561ecbe0a78'}
   - {seq: 1, role: markers, filename: assets/KR6l0039_001-X.markers.yaml, hash: 'sha256:3186b1d6512dae433a17ae99c7083c4854c6af72fb514a2a4f8823a293f02773'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6l0039_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 838-A 刻法盈俱舍頌疏敘記序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6l0039_X_000-mulu-2
     span:
-    - front
+    - body
     - 463
     - 463
   label: 俱舍頌疏序記
@@ -65,4 +65,4 @@ table_of_contents:
   label: No. 838-B
   type: mulu
   level: 1
-hash: sha256:5389756f23d8d359d1b8ec0c03bdfcb014e3e6333f06fae25b84ccfae18bd307
+hash: sha256:5b001e1199b87cc0ea8b8df212f3b2908f41b33af513d83b0036ccc0de6643cd

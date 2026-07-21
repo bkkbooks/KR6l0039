@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6l0039_000.yaml, hash: 'sha256:52baffc05ade5d06a4c0ba6558292144f7e5f8f206eae5164ef2830fe254ac20'}
+  - {seq: 0, filename: KR6l0039_000.yaml, hash: 'sha256:cd330c15861be1a8daff26f47f721a0a025f464b39cb110c80af0c8c482c90f4'}
   - {seq: 1, filename: KR6l0039_001.yaml, hash: 'sha256:32d8be6dfaae7861fabd5614888ebba62afe2cd2eb8de9cda6ad815cb3197f06'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6l0039_000.markers.yaml, hash: 'sha256:08b1a28f3b601c36b510b54a81b35de8ffd533915b0484b996fb432f38df97c8'}
+  - {seq: 0, role: markers, filename: assets/KR6l0039_000.markers.yaml, hash: 'sha256:bcfc264e3a2d9ecc28be08407cb171d7bf99a1f139bf912ba60d99c1c648c7c1'}
   - {seq: 1, role: markers, filename: assets/KR6l0039_001.markers.yaml, hash: 'sha256:f2eb92c60eb44553b736bcbffd21735152d210268acbdce17b8c2f209c879f4a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6l0039_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 838-A 刻法盈俱舍頌疏敘記序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6l0039_X_000-mulu-2
     span:
-    - front
+    - body
     - 463
     - 463
   label: 俱舍頌疏序記
@@ -67,7 +67,7 @@ table_of_contents:
   label: No. 838-B
   type: mulu
   level: 1
-hash: sha256:c9c07018156540c3c085ed7d2066abe6c406970c643a1a58d849cff681ff53b6
+hash: sha256:8f1402c219ca39d7b3398c0e622795dc63c94f64d6678693a86f34f5d3a23b85
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
